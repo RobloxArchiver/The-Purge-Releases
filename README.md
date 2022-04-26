@@ -3,10 +3,6 @@ All releases for the purge are stored here. Feel free to look around, some stuff
 # Releases
 The Purge
 ```lua
-getfenv().purgeConfig = {
-    keybind = "L"
-};
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxArchiver/The-Purge-Releases/main/ThePurgeChicago/purgeBindings.lua"))()
 ```
 The Purge Farmer
